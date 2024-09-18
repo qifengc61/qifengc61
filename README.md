@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱I am currently studying for a Master of Informatics at the University of Edinburgh.
+🌱I am currently studying for a Master of Informatics at the University of Edinburgh.<br>
 🔥Incendio!
 <!--
 - 🔭 I’m currently working on ...
